@@ -19,3 +19,8 @@ Before running the tests, ensure you have the following installed:
 The project structure is as follows:
 
 airalo-main/ src/ test/ java/ tests/ OrderEsimTest.java
+
+## ▶️ How to Run the Tests
+1. Navigate to airalo-main
+2. Run command: mvn clean install
+3. Run command: mvn test
